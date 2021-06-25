@@ -8,9 +8,9 @@ Sou um desenvolvedor em processo de aprendizagem, tenho 23 anos e sou apaixonado
 
 -  Html, Css, Js
 -  Jquery, Bootstrap
--  Node
 
 - Java
+- Flutter
 - Mysql
 
 
